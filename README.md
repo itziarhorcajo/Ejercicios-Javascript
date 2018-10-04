@@ -1,3 +1,3 @@
-# Prueba-Javascript
+# Ejercicios-Javascript
 
-Hola a todos, esto es una prueba de Javascript
+Hola a todos, aquí voy a subir unos ejercicios que estoy haciendo de Javascript
