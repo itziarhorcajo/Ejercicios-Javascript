@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <script>
+    var numero = prompt("Dime un número.");
+    var numero1 = prompt("Dime otro número.");
+    var calculo = prompt("Elige entre: dividir, multiplicar, sumar o restar los números que has elegido.")
+      if (calculo == "multiplicar"){
+        alert(numero1 * numero);
+      } else if(calculo == "sumar"){
+        alert(parseInt(numero) + parseInt(numero1));
+      } else if(calculo== "restar"){
+        alert(numero - numero1);
+      }else if(calculo == "dividir"){
+        alert(numero / numero1);
+      }else {
+        alert("No has elegido una operación correcta.");
+      }
+    </script>
+  </body>
+</html>
